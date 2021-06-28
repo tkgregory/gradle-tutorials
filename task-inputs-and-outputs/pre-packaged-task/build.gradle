@@ -1,8 +1,0 @@
-plugins {
-    id 'base'
-}
-
-tasks.register('copyFile', Copy) {
-    from layout.projectDirectory.file('message.txt')
-    into layout.buildDirectory
-}

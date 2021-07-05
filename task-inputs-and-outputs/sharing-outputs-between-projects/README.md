@@ -10,13 +10,13 @@ It produces an output file containing the quote and the quote source.
 ### Demonstrating UP-TO-DATE checks
 
 1. Run `./gradlew addQuoteSource` and see that both tasks are executed (i.e. not *UP-TO-DATE*)
-1. Verify that *build/quote-with-source.txt* has been created
+1. Verify that *consume-quote/build/quote-with-source.txt* has been created
 1. Run `./gradlew addQuoteSource` and see that neither tasks is executed since they're *UP-TO-DATE*
 
 Note that *addQuotationMarks* is also executed since *addQuoteSource* has a dependency on the *quote* configuration.
 
 #### Changing an input
-1. Change *quote.txt* in the *produce-quote* subproject
+1. Change *produce-quote/quote.txt*
 1. Run `./gradlew addQuoteSource` and see that both tasks are executed (i.e. not *UP-TO-DATE*)
 
 #### Changing an output

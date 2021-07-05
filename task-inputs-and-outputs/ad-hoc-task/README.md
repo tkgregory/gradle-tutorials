@@ -1,6 +1,6 @@
-**Shows inputs and outputs working for an ad-hoc task. The inputs and outputs are defined in the build.gradle.**
+**Shows inputs and outputs working for an ad-hoc task. The inputs and outputs are defined in the *build.gradle*.**
 
-The `emphasiseQuote`task defined in *build.gradle* takes as input a quote file and an emphasis string. 
+The `emphasiseQuote` task defined in *build.gradle* takes as input a quote file and an emphasis string. 
 The produced output file contains the quote joined with the emphasis string.
 
 ### Demonstrating UP-TO-DATE checks

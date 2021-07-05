@@ -1,0 +1,1 @@
+rootProject.name = "custom-task-define-inputs-and-outputs-externally"

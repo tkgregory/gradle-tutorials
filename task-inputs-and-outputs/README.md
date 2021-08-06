@@ -10,3 +10,5 @@ for a full description.
 * [linking-tasks](/task-inputs-and-outputs/linking-tasks): demonstrates how to link inputs & outputs between tasks in the same project
 * [sharing-outputs-between-projects](/task-inputs-and-outputs/sharing-outputs-between-projects): a similar outcome to linking-tasks, but this time we need to share task outputs between subprojects which requires the use of dependency configurations
 * [all-types-custom-task](/task-inputs-and-outputs/all-types-custom-task): defines a dummy task to illustrate how to use all the different input and output types
+
+Checkout [this branch](https://github.com/tkgregory/gradle-tutorials/tree/kotlin) for Kotlin implementations.

@@ -12,3 +12,6 @@ for a full description.
 * [all-types-custom-task](/task-inputs-and-outputs/all-types-custom-task): defines a dummy task to illustrate how to use all the different input and output types
 
 Checkout [this branch](https://github.com/tkgregory/gradle-tutorials/tree/kotlin) for Kotlin implementations.
+
+## Need Gradle support?
+Contact me if you need help with Gradle at [tom@tomgregory.com](mailto:tom@tomgregory.com).

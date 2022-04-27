@@ -13,3 +13,6 @@ See *[How to exclude Gradle dependencies](https://tomgregory.com/how-to-exclude-
 Run via *application* plugin:
 
 `./gradlew run`
+
+## Need Gradle support?
+Contact me if you need help with Gradle at [tom@tomgregory.com](mailto:tom@tomgregory.com).

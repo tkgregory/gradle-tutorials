@@ -13,3 +13,6 @@ Run jar file directly:
 ## Testing
 
 `./gradlew test`
+
+## Need Gradle support?
+Contact me if you need help with Gradle at [tom@tomgregory.com](mailto:tom@tomgregory.com).
